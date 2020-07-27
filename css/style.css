@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.container-fluid {
+    /* margin: 0; */
+    padding: 0;
+}
+.row {
+    margin: 0;
+    padding: 0;
+}
+.topHeader, .secondArea {
+    background-color: #000;
+}
+.btnBuy {
+    border-radius: 3rem !important;
+    background-color: #ffb20f;
+}
+.btnApk {
+    background-color: #fff;
+    color: #000;
+    border-radius: 2rem !important;
+}
+.secondArea {
+    height: 100%;
+}
